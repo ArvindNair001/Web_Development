@@ -1,0 +1,24 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+I've learned to carefully observe web-page.
+
+Since the links were already provided it was easy to create an image and link tag.
+
+The most difficult part was stylizing the code with proper indentations it was time consuming compared to Programming languages which normally
+don't require to print a large block of code.but I had fun ;).
+
+
+First off, this course allowed me to observe each every details of the webpage carefully, I noticed that the website was wrapped in figure tag
+before this course I've never paid so much attention to the structure of any sites. But now I look at even the smallest things that normal people
+ignore , even though I've a lot of experience programing with C and Java.
+I hope that web development becomes my second nature just like the others I'm used to.
+
+Thank You !!
